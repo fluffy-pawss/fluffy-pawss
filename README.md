@@ -4,4 +4,4 @@
 
 <p align="right">
 
-$${\color{#C4E0FF}\text{nyαn ㅤiაㅤ α ㅤfαƚ ㅤℓiƚƚℓe ㅤchυdㅤㅤ}}$$
+$${\color{#C4E0FF}\text{dumb app fuck you bitch}}$$
