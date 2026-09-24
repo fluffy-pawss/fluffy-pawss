@@ -3,5 +3,4 @@
 </p>
 
 <p align="right">
-
 $${\color{#C4E0FF}\text{dumb app fuck you bitch}}$$
