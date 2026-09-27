@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   𝒦𝐢𝐭𝐭𝐲ㅤㅤ}}$ ${\textsf{\color{#EDE9E3} 𝐨𝐫 }}$ ${\textsf{\color{#4DB6D8}ㅤㅤ𝒦𝐢𝐭𝐭ㅤㅤ❤︎︪𓏼 }}$
+  <img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   𝒦𝐢𝐭𝐭𝐲ㅤㅤ}}$ ${\textsf{\color{#EDE9E3} 𝐨𝐫 }}$ ${\textsf{\color{#4DB6D8}ㅤㅤ𝒞𝐮𝐩ㅤㅤ❤︎︪𓏼 }}$
 
 <p align="center">
-${\textsf{\color{#4760E1}𝐻𝐞}}$ ${\textsf{\color{#EDE9E3} 𝐛𝐥𝐛𝐥 }}$ ${\textsf{\color{#4DB6D8}𝐛𝐥𝐛𝐥}}$
+${\textsf{\color{#4760E1}𝐻𝐞ㅤﾉㅤა𝐡𝐞ㅤﾉㅤ𝐤𝐢𝐭𝐭𝐲ㅤ}}$ ${\textsf{\color{#EDE9E3} 𝐇𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟 ‹𝟑 }}$ ${\textsf{\color{#4DB6D8}𝐛𝐥𝐛𝐥}}$
