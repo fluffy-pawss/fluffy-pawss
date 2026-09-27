@@ -6,4 +6,7 @@
   <img src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif"> 
   $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
 
-<img src="jne1qp.gif" width="25" align="absmiddle"> $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
+  <p align="center">
+ <img width="25" src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif">
+  <p align="center">
+test  <img width="15" src="jne1qp.gif">⠀ 19y⠀  <img width="15" src="https://i.imgur.com/ZISm3uS.gif"> ⠀  ⏔⏔⠀ he / hymn⠀ ᶻ 𝗓 𐰁
