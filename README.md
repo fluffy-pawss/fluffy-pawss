@@ -13,5 +13,6 @@ ${\textsf{\color{#A9DDE0}ㅤ۫ㅤㅤ𝐻𝐞 ﾉ ა𝐡𝐞 ﾉ 𝐤𝐢𝐭�
 <a href="https://pawfecttt.straw.page/"> <img src="https://img.shields.io/badge/strawpage-58BAD9?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
 
 <p align="center">
-<details>
+
+  <details>
 <summary> meow
