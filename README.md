@@ -6,6 +6,4 @@
   <img src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif"> 
   $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
 
-<p>
-<img src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif" width="25"> $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
-</p>
+<img src="https://raw.fluffy-pawsscontent.com/fluffy-pawss/fluffy-pawss/main/tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif" width="25"> $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
