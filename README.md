@@ -6,4 +6,4 @@
   <img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   𝒦𝐢𝐭𝐭𝐲ㅤㅤ}}$ ${\textsf{\color{#EDE9E3} 𝐨𝐫 }}$ ${\textsf{\color{#4DB6D8}ㅤㅤ𝒞𝐮𝐩ㅤㅤ❤︎︪𓏼 }}$
 
 <p align="center">
-${\textsf{\color{#A9DDE0}𝐻𝐞 ﾉ ა𝐡𝐞 ﾉ 𝐤𝐢𝐭𝐭𝐲}}$ <img src="jne1qp.gif"> ${\textsf{\color{#58BAD9}𝐇𝐄𝐀𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤ!}}$
+${\textsf{\color{#A9DDE0}𝐻𝐞 ﾉ ა𝐡𝐞 ﾉ 𝐤𝐢𝐭𝐭𝐲ㅤㅤ}}$ <img src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif"> ${\textsf{\color{#58BAD9}ㅤㅤ𝐇𝐄𝐀𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤ!}}$
