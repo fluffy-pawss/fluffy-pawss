@@ -10,7 +10,8 @@ ${\textsf{\color{#A9DDE0}ㅤ۫ㅤㅤ𝐻𝐞 ﾉ ა𝐡𝐞 ﾉ 𝐤𝐢𝐭�
 
 <p align="center>
   
-<a href="YOUR-STRAWPAGE-LINK">
-  <img src="https://img.shields.io/badge/STRAWPAGE-4A90E2?style=flat-square&labelColor=4A90E2&logoColor=white">
-</a>
+<p align="center">
+  <a href="YOUR-STRAWPAGE-LINK">
+    <img src="https://img.shields.io/badge/STRAWPAGE-4A90E2?style=flat-square">
+  </a>
 </p>
