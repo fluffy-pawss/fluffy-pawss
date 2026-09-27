@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ezgif-1c5cfb9f4b230eed.gif" width="400">
+  <img src="ezgif-10b3a04e5b8b847b.gif" width="600">
 </p>
 
 <p align="center">
