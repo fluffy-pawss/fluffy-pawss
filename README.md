@@ -8,4 +8,5 @@
 
 <p align="Center">
  <img src="jne1qp.gif" with="20" alt=fluffy-pawss">    
-    $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
+<p align="center">
+  $${\color{#C4E0FF}\text{𝐡𝐞𝐥𝐥𝐨 𝐦𝐲 𝐝𝐞𝐚𝐫 <𝟑}}$$
