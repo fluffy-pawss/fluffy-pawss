@@ -11,4 +11,4 @@ ${\textsf{\color{#A9DDE0}ㅤ۫ㅤㅤ𝐻𝐞 ﾉ ა𝐡𝐞 ﾉ 𝐤𝐢𝐭�
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://cupfettii.atabook.org/"> <img src="https://img.shields.io/badge/新book-243BA2?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
 <a href="https://pawfecttt.straw.page/"> <img src="https://img.shields.io/badge/strawpage-6570DC?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
-<a href="https://kittspaws.straw.page/"> <img src="https://img.shields.io/badge/infos-CDC7BF?style=for-the-badge&logoColor=#2A180E&labelColor=58BAD9"></a>
+<a href="https://kittspaws.straw.page/"> <img src="https://img.shields.io/badge/infos-58BAD9?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
