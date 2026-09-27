@@ -10,4 +10,4 @@ ${\textsf{\color{#A9DDE0}ㅤ۫ㅤㅤ𝐻𝐞 ﾉ ა𝐡𝐞 ﾉ 𝐤𝐢𝐭�
 
 <p align="center>
   
-<a href="https://pawfectt.atabook.org/"> <img src="https://img.shields.io/badge/新book-58BAD9?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
+<a href="https://cupfettii.atabook.org/"> <img src="https://img.shields.io/badge/新book-58BAD9?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
