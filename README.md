@@ -13,7 +13,7 @@ Your hidden text goes here!
 <div align="center">
 
 <details>
-<summary>${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   𝒦𝐢𝐭𝐭𝐲ㅤㅤ}}$ </summary>
+<summary>${\textsf{\color{#4760E1}ㅤ꒰ π ⩊ π ꒱ }}$ </summary>
 
 Your hidden text goes here!
 
