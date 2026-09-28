@@ -1,21 +1,10 @@
 <div align="center">
 
 <details>
-<summary>♡ click me ♡</summary>
-
-Your hidden text goes here!
-
-</details>
-
-</div>
-
-
-<div align="center">
-
-<details>
 <summary>${\textsf{\color{#4760E1}ㅤ꒰ π ⩊ π ꒱ }}$ </summary>
 
-Your hidden text goes here!
+<img src="Sans titre 271_20260928164833.png" width="400">
+<img src="Sans titre 271_20260928164837.png" width="400">
 
 </details>
 
