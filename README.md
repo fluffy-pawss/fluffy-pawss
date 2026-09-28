@@ -13,10 +13,12 @@ Your hidden text goes here!
 <div align="center">
 
 <details>
-<summary><span style="color:#C4E0FF;">♡ click me ♡</span></summary>
+<summary>${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   𝒦𝐢𝐭𝐭𝐲ㅤㅤ}}$ </summary>
 
 Your hidden text goes here!
 
 </details>
 
 </div>
+
+ 
