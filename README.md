@@ -1,4 +1,10 @@
-<p align="center">
+<div align="center">
+
 <details>
-<summary> caca
-</p>
+<summary>♡ click me ♡</summary>
+
+Your hidden text goes here!
+
+</details>
+
+</div>
