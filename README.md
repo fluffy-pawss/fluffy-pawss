@@ -1,13 +1,17 @@
-<div align="center">
-  <div style="display: flex; gap: 20px;">
-    <div>
-      TEXT ON THE LEFT
-    </div>
-    <div>
-      TEXT ON THE RIGHT
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Info</th>
+  </tr>
+  <tr>
+    <td>Text 1</td>
+    <td>Text 2</td>
+  </tr>
+  <tr>
+    <td>Text 3</td>
+    <td>Text 4</td>
+  </tr>
+</table>
 
 
 
