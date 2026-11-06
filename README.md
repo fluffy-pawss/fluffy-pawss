@@ -1,11 +1,18 @@
 <table>
-    <th>Name</th>
-    <th>Info</th>
-    <td>Text 1</td>
-    <td>Text 2</td>
-    <td>Text 3</td>
-    <td>Text 4</td>
-</table>
+<div align="center";">
+
+  <p>
+    <a href="o</a>ㅤ
+    <a href="o</a>ㅤ
+    <a href="o</a>ㅤ
+    <a href="o</a>
+  </p>
+
+  <p>
+    YOUR TEXT HERE
+  </p>
+
+</div>
 
 
 
