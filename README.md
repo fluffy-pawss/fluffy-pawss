@@ -1,10 +1,9 @@
 <table><tr><td>
 
  <p align="center">
-${\textsf{\color{#F9DBF6}ㅤ۫ ⠀ ⠀𝗵𝗲   ⠀ﾉ ⠀𝘀𝗵𝗲}}$ ${\textsf{\color{#fffff} ⠀ﾉ ⠀𝗸𝗶𝘁𝘁𝘆ㅤ ㅤ}}$ <img src="ezgif-4d56d7b13ed5ef99.gif"> ${\textsf{\color{#ffffff}◜ ㅤㅤ𝐇𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤㅤ}}$
+${\textsf{\color{#F9DBF6}ㅤ۫ ⠀ ⠀𝗵𝗲   ⠀ﾉ ⠀𝘀𝗵𝗲}}$ ${\textsf{\color{#fffff} ⠀ﾉ ⠀𝗸𝗶𝘁𝘁𝘆ㅤ ㅤ}}$ <img src="IMG-1847.gif"> ${\textsf{\color{#ffffff}◜ ㅤㅤ𝐇𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤㅤ}}$
 
 
-e
 </td></tr></table>
 
 
