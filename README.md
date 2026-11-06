@@ -1,7 +1,7 @@
 <table><tr><td>
 
  <p align="center">
-${\textsf{\color{#ffffff}ㅤ۫ ⠀ ⠀𝗵𝗲   ⠀ﾉ ⠀𝘀𝗵𝗲}}$ ${\textsf{\color{#F9DBF6} ⠀ﾉ ⠀𝗸𝗶𝘁𝘁𝘆ㅤ ㅤ}}$ <img src="IMG-1847.gif"> ${\textsf{\color{#E7BEDE} َ ㅤㅤ𝐇𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤㅤ}}$
+${\textsf{\color{#ffffff}ㅤ۫ ⠀ ⠀𝗵𝗲   ⠀ﾉ ⠀𝘀𝗵𝗲}}$ ${\textsf{\color{#F9DBF6} ⠀ﾉ ⠀𝗸𝗶𝘁𝘁𝘆ㅤ ㅤ}}$ <img src="IMG-1847.gif"> ${\textsf{\color{#E7BEDE} َ ㅤㅤ𝐇𝐕𝐘 ⠀𝐜𝐮𝐝𝐜𝐨𝐦𝐟}}$
 
 
 </td></tr></table>
