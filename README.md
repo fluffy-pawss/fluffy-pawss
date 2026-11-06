@@ -1,17 +1,5 @@
-<table>
-<div align="center";">
-
-  <p>
-    <a href="o</a>ㅤ
-    <a href="o</a>ㅤ
-    <a href="o</a>ㅤ
-    <a href="o</a>
-  </p>
-
-  <p>
-    YOUR TEXT HERE
-  </p>
-
+<div style="border: 1px solid #444; padding: 20px;">
+  &nbsp;
 </div>
 
 
