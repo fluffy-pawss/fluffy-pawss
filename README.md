@@ -1,7 +1,7 @@
 <table><tr><td>
 
  <p align="center">
-${\textsf{\color{#F9DBF6}ㅤ۫ㅤㅤн𝐞 ﾉ ѕн𝐞 ﾉ к𝐢ᴛᴛ𝐲ㅤ ㅤ}}$ <img src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif"> ${\textsf{\color{#ffffff}◜ ㅤㅤ𝐇𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤㅤ}}$
+${\textsf{\color{#F9DBF6}ㅤ۫ㅤㅤ𝗵𝗲 ﾉ 𝘀𝗵}}$ ${\textsf{\color{#fffff}𝗲 ﾉ 𝗸𝗶𝘁𝘁𝘆ㅤ ㅤ}}$ <img src="tumblr_18367bbec02d38fcbd7f61e89c27787c_caaaeb4b_75 (1).gif"> ${\textsf{\color{#ffffff}◜ ㅤㅤ𝐇𝐕𝐘 𝐜𝐮𝐝𝐜𝐨𝐦𝐟ㅤㅤ}}$
 
 
 e
