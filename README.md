@@ -1,4 +1,4 @@
-<div style="border: 1px solid #444; padding: 20px;">
+<div style="border: 1 solid #444; padding: 20;">
   &nbsp;
 </div>
 
