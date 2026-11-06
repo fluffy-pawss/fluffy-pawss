@@ -1,7 +1,6 @@
-<div style="border: 1px solid #444; padding: 20px;">
-  &nbsp;
-</div>
-
+<table><tr><td>
+Your content here
+</td></tr></table>
 
 
 
