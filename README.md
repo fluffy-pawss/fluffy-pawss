@@ -1,16 +1,10 @@
 <table>
-  <tr>
     <th>Name</th>
     <th>Info</th>
-  </tr>
-  <tr>
     <td>Text 1</td>
     <td>Text 2</td>
-  </tr>
-  <tr>
     <td>Text 3</td>
     <td>Text 4</td>
-  </tr>
 </table>
 
 
