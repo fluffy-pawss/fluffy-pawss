@@ -37,4 +37,6 @@ ${\textsf{\color{#ffffff}⠀⠀⠀⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\textsf{\co
  
   <img src="Sans titre 271_20260928164833.png" width="380"><br>  
   <img src="Sans titre 271_20260928164837.png" width="380">
+
+  hi hallo hai moe ily ok? /p
 </details>
