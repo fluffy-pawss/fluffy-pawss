@@ -13,10 +13,10 @@ ${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\colo
  </p>
 
 <p align="left">
-  <a href="kittiest.atabook.org">
+  <a href="https://kittiest.atabook.org">
     <img src="Sans titre 318_20261107203649.png" width="150">
   </a>
-  <a href="pawfecttt.straw.page">
+  <a href="https://pawfecttt.straw.page">
     <img src="Sans titre 318_20261107204024.png" width="150">
   </a>
 </p>
