@@ -35,7 +35,7 @@ ${\textsf{\color{#A883B1}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\text
 <div align="left">
 
 <details>
-<summary>${\textsf{\color{#4760E1}ㅤ꒰ π ⩊ π ꒱ }}$ </summary>
+<summary>${\textsf{\color{#4760E1}> /// < }}$ </summary>
 
 <img src="Sans titre 271_20260928164833.png" width="530">
 <img src="Sans titre 271_20260928164837.png" width="530">
