@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/g8yfzr.png" width="200" align="left">
+<img src="https://files.catbox.moe/g8yfzr.png" width="200" align="right">
 
 <table><tr><td>
 <p aligne="left">
