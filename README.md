@@ -1,6 +1,6 @@
 <table><tr><td>
 <p aligne="left">
- ⠀ ⠀ <img src="ezgif-77f4d85226f2e002.gif"> ${\textsf{\color{#ffffff}ㅤㅤㅤ ׂ   kittyㅤㅤ}}$ ${\textsf{\color{#FFF5FE} ᵒʳ }}$ ${\textsf{\color{#F9DBF6}ㅤㅤcupㅤㅤ𓏼 }}$
+ ⠀ ⠀ <img src="ezgif-77f4d85226f2e002.gif"> ${\textsf{\color{#ffffff}ㅤㅤㅤ ׂ   kittyㅤㅤ}}$ ${\textsf{\color{#FFF5FE} ᵒʳ }}$ ${\textsf{\color{#F9DBF6}ㅤㅤcupㅤ⠀ㅤ𓏼 }}$
 </p>
   
 
