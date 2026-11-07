@@ -28,7 +28,7 @@ ${\textsf{\color{#A883B1}⠀꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\c
 
 
 
-<div align="center">
+<div align="left">
 
 <details>
 <summary>${\textsf{\color{#4760E1}ㅤ꒰ π ⩊ π ꒱ }}$ </summary>
