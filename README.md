@@ -47,7 +47,7 @@ ${\textsf{\color{#ffffff}⠀⠀⠀⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\textsf{\co
  
 <details>
   <summary>
-    <img src="Tumblr_l_1571196071682764.gif" alt="Show details" width="200">
+    <img src="Tumblr_l_1571196071682764.gif" alt="Show details" width="350">
   </summary>
 
   The hidden content goes here.
