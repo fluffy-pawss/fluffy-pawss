@@ -23,6 +23,10 @@ ${\textsf{\color{#A883B1}⠀꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\c
     <img src="Sans titre 318_20261107204024.png" width="150">
   </a>
 
+ <p align="left">
+${\textsf{\color{#A883B1}⠀click⠀⠀⠀}}$ ${\textsf{\color{#9978A8}the⠀⠀⠀}}$ ${\textsf{\color{#625275}⠀⠀⠀images⠀⠀!}}$ 
+ </p>
+
 </td></tr></table>
 
 
