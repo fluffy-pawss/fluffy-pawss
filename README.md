@@ -24,7 +24,7 @@ ${\textsf{\color{#A883B1}⠀꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\c
   </a>
 
  <p align="left">
-${\textsf{\color{#A883B1}⠀click⠀⠀⠀}}$ ${\textsf{\color{#9978A8}the⠀⠀⠀}}$ ${\textsf{\color{#625275}⠀⠀⠀images⠀⠀!}}$ 
+${\textsf{\color{#A883B1}⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\textsf{\color{#9978A8}the⠀⠀⠀}}$ ${\textsf{\color{#625275}⠀⠀⠀images⠀⠀!}}$ 
  </p>
 
 </td></tr></table>
