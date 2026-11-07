@@ -1,10 +1,10 @@
 <table><tr><td>
-<img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   𝒦𝐢𝐭𝐭𝐲ㅤㅤ}}$ ${\textsf{\color{#EDE9E3} 𝐨𝐫 }}$ ${\textsf{\color{#4DB6D8}ㅤㅤ𝒞𝐮𝐩ㅤㅤ❤︎︪𓏼 }}$
+<img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   kittyㅤㅤ}}$ ${\textsf{\color{#EDE9E3} ᵒʳ }}$ ${\textsf{\color{#4DB6D8}ㅤㅤcupㅤㅤ❤︎︪𓏼 }}$
 
   
 
  <p align="center">
-${\textsf{\color{#ffffff}ㅤ۫  ⠀𝗵𝗲   ⠀ﾉ ⠀𝘀𝗵𝗲}}$ ${\textsf{\color{#F9DBF6} ⠀ﾉ ⠀𝗸𝗶𝘁𝘁𝘆ㅤ ㅤ}}$ <img src="IMG-1847.gif"> ${\textsf{\color{#E7BEDE} َ ㅤㅤ𝗵𝘃𝘆 ⠀𝗰𝘂𝗱𝗰𝗼𝗺𝗳  }}$
+${\textsf{\color{#ffffff}ㅤ۫  ⠀he   ⠀ﾉ ⠀she}}$ ${\textsf{\color{#F9DBF6} ⠀ﾉ ⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif"> ${\textsf{\color{#E7BEDE} َ ㅤㅤhvy ⠀cudcomf  }}$
 
 
 </td></tr></table>
