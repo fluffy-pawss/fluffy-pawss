@@ -35,6 +35,6 @@ ${\textsf{\color{#ffffff}⠀⠀⠀⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\textsf{\co
     <img src="Tumblr_l_1571196071682764.gif" alt="Show details" width="420">
   </summary>
 
-  <img src="Sans titre 271_20260928164833.png" alt="Show details" width="200">
-  <img src="Sans titre 271_20260928164837.png" alt="Show details" width="200">
+  <img src="Sans titre 271_20260928164833.png" alt="Show details" width="350">
+  <img src="Sans titre 271_20260928164837.png" alt="Show details" width="350">
 </details>
