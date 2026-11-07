@@ -9,7 +9,7 @@ ${\textsf{\color{#F2CFEC}⠀𓎟𓎟⠀⠀  ⠀he   ⠀⠀}}$ ${\textsf{\color{#
  </p>
 
  <p align="left">
-${\textsf{\color{#F2CFEC}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\color{#E7BEDE}proshipper}}$ ${\textsf{\color{#D9ADD4}⠀⠀⠀,⠀⠀⠀profic⠀꒱}}$ 
+${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\color{#9978A8}proshipper}}$ ${\textsf{\color{#625275}⠀⠀⠀,⠀⠀⠀profic⠀꒱}}$ 
  </p>
 
 
