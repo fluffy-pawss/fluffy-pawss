@@ -36,5 +36,6 @@ ${\textsf{\color{#ffffff}⠀⠀⠀⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\textsf{\co
   </summary>
 
   <img src="Sans titre 271_20260928164833.png" alt="Show details" width="350">
+  
   <img src="Sans titre 271_20260928164837.png" alt="Show details" width="350">
 </details>
