@@ -14,7 +14,7 @@ ${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\colo
 
 <p align="left">
   <a href="kittiest.atabook.org">
-    <img src="Sans titre 318_20261107203653.png" width="150">
+    <img src="Sans titre 318_20261107203649.png" width="150">
   </a>
   <a href="pawfecttt.straw.page">
     <img src="Sans titre 318_20261107204024.png" width="150">
