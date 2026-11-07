@@ -11,7 +11,7 @@ ${\textsf{\color{#F2CFEC}⠀𓎟𓎟⠀⠀  ⠀he   ⠀⠀}}$ ${\textsf{\color{#
  </p>
 
  <p align="left">
-${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\color{#9978A8}proshipper}}$ ${\textsf{\color{#625275}⠀⠀⠀,⠀⠀⠀profic⠀꒱}}$ 
+${\textsf{\color{#A883B1}⠀꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\color{#9978A8}proshipper}}$ ${\textsf{\color{#625275}⠀⠀⠀,⠀⠀⠀profic⠀꒱⠀}}$ 
  </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
