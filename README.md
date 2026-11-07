@@ -45,3 +45,10 @@ ${\textsf{\color{#ffffff}⠀⠀⠀⠀⠀⠀⠀⠀click⠀⠀⠀}}$ ${\textsf{\co
 </div>
 
  
+<details>
+  <summary>
+    <img src="https://example.com/image.png" alt="Show details" width="200">
+  </summary>
+
+  The hidden content goes here.
+</details>
