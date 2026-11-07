@@ -23,7 +23,7 @@ ${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\colo
 
 </td></tr></table>
 
-<img src="https://files.catbox.moe/g8yfzr.png" width="500" align="right">
+<img src="https://files.catbox.moe/g8yfzr.png" width="300" align="right">
 
 
 
