@@ -1,7 +1,7 @@
 <table><tr><td>
 <td align="left">
  ⠀ ⠀ <img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   kittyㅤㅤ}}$ ${\textsf{\color{#EDE9E3} ᵒʳ }}$ ${\textsf{\color{#4DB6D8}ㅤㅤcupㅤㅤ𓏼 }}$
-</td>
+<td>
   
 
  <p align="center">
