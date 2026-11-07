@@ -5,7 +5,7 @@
   
 
  <p align="left">
-${\textsf{\color{#ffffff}𓎟𓎟⠀⠀  ⠀he   ⠀⠀/  ⠀ ⠀they}}$ ${\textsf{\color{#F9DBF6}  ⠀ ⠀/   ⠀⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif">
+${\textsf{\color{#ffffff}𓎟𓎟⠀⠀  ⠀he   ⠀⠀/  ⠀ ⠀they}}$ ${\textsf{\color{#F9DBF6}  ⠀ ⠀/   ⠀⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif">۫ ׅ
  </p>
 
 
