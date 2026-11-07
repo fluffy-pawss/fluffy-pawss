@@ -21,6 +21,8 @@ ${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\colo
     <img src="Sans titre 318_20261107204024.png" width="150">
   </a>
 
+<img src="https://files.catbox.moe/2hgbh8.png" width="150">
+
 </td></tr></table>
 
 
