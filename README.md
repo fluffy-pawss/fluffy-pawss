@@ -12,14 +12,15 @@ ${\textsf{\color{#F2CFEC}⠀𓎟𓎟⠀⠀  ⠀he   ⠀⠀}}$ ${\textsf{\color{#
 ${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\color{#9978A8}proshipper}}$ ${\textsf{\color{#625275}⠀⠀⠀,⠀⠀⠀profic⠀꒱}}$ 
  </p>
 
-<p align="left">
   <a href="https://kittiest.atabook.org">
     <img src="Sans titre 318_20261107203649.png" width="150">
   </a>
+
+
+  
   <a href="https://pawfecttt.straw.page">
     <img src="Sans titre 318_20261107204024.png" width="150">
   </a>
-</p>
 
 </td></tr></table>
 
