@@ -8,6 +8,10 @@
 ${\textsf{\color{#F2CFEC}𓎟𓎟⠀⠀  ⠀he   ⠀⠀}}$ ${\textsf{\color{#E7BEDE}/  ⠀ ⠀they}}$ ${\textsf{\color{#D9ADD4}  ⠀ ⠀/   ⠀⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif">۫ ׅ
  </p>
 
+ <p align="left">
+${\textsf{\color{#F2CFEC}darkshipper ,   ⠀⠀}}$ ${\textsf{\color{#E7BEDE}   ⠀ ⠀proshipper}}$ ${\textsf{\color{#D9ADD4}  ⠀ ⠀proficㅤ ㅤ}}$ <img src="IMG-1847.gif">۫ ׅ
+ </p>
+
 
 </td></tr></table>
 
