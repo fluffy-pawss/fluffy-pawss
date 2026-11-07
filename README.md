@@ -1,10 +1,10 @@
 <table><tr><td>
 <p aligne="left">
  ⠀ ⠀ <img src="jne1qp.gif"> ${\textsf{\color{#4760E1}ㅤㅤㅤ ׂ   kittyㅤㅤ}}$ ${\textsf{\color{#EDE9E3} ᵒʳ }}$ ${\textsf{\color{#4DB6D8}ㅤㅤcupㅤㅤ𓏼 }}$
-<p>
+</p>
   
 
- <p align="center">
+ <p align="left">
 ${\textsf{\color{#ffffff}𓎟𓎟⠀⠀  ⠀he   ⠀⠀/  ⠀ ⠀they}}$ ${\textsf{\color{#F9DBF6}  ⠀ ⠀/   ⠀⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif">
  </p>
 
