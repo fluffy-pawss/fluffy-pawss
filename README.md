@@ -1,3 +1,5 @@
+<img src="https://files.catbox.moe/g8yfzr.png" width="200" align="right">
+
 <table><tr><td>
 <p aligne="left">
  ⠀ ⠀ <img src="ezgif-77f4d85226f2e002.gif"> ${\textsf{\color{#ffffff}ㅤㅤㅤ ׂ   kittyㅤㅤ}}$ ${\textsf{\color{#FFF5FE} ᵒʳ }}$ ${\textsf{\color{#F9DBF6}ㅤㅤcupㅤ⠀ㅤ𓏼 }}$
@@ -23,7 +25,6 @@ ${\textsf{\color{#A883B1}꒰⠀darkshipper⠀⠀⠀,⠀⠀⠀}}$ ${\textsf{\colo
 
 </td></tr></table>
 
-<img src="https://files.catbox.moe/g8yfzr.png" width="200" align="right">
 
 
 
