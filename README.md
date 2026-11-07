@@ -4,7 +4,7 @@
   
 
  <p align="center">
-${\textsf{\color{#ffffff}ㅤ۫  ⠀he   ⠀ﾉ ⠀she}}$ ${\textsf{\color{#F9DBF6} ⠀ﾉ ⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif">
+${\textsf{\color{#ffffff}ㅤ𓎟𓎟  ⠀he   ⠀ﾉ ⠀she}}$ ${\textsf{\color{#F9DBF6} ⠀ﾉ ⠀kittyㅤ ㅤ}}$ <img src="IMG-1847.gif">
 
 
 </td></tr></table>
